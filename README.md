@@ -15,7 +15,7 @@
 ## NHIỆM VỤ 1 (File PDF)
 ## NHIỆM VỤ 2 (File script.sql)
 
-### **Khởi tạo cơ sở dữ liệu **
+### Khởi tạo cơ sở dữ liệu 
 
 **Tạo Database**
 
